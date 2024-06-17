@@ -1,0 +1,14 @@
+D:\Study\Лаби ООП--------\Exam\exam\bin\Debug\net8.0\exam.exe
+D:\Study\Лаби ООП--------\Exam\exam\bin\Debug\net8.0\exam.deps.json
+D:\Study\Лаби ООП--------\Exam\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+D:\Study\Лаби ООП--------\Exam\exam\bin\Debug\net8.0\exam.dll
+D:\Study\Лаби ООП--------\Exam\exam\bin\Debug\net8.0\exam.pdb
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.dll
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\refint\exam.dll
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.pdb
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+D:\Study\Лаби ООП--------\Exam\exam\obj\Debug\net8.0\ref\exam.dll
